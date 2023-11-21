@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  font-family: 'Nunito', sans-serif;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.links:hover {
+  text-decoration: none;
+  color: #ffffff;
+  border-bottom: 2px solid red;
+  transition: all ease-in 0.3s;
+}
+
+.link {
+  color: #fff;
+}
+
+img {
+ height : 450px;
+}
+button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  margin: 0 10px;
+  font-size: 2rem;
+}
+
+.on {
+  color: #e4ff16;
+}
+
+.off {
+  color: #ccc;
+}
